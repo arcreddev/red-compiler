@@ -1,0 +1,13 @@
+{
+    "prefix": "TEST",
+    "main": [
+        {
+            "case": "ASSERTEQ",
+            "code": [
+                "LOADARG term0",
+                "EQ",
+                "STORE term1"
+            ]
+        }
+    ]
+}
